@@ -4,9 +4,9 @@
 
 🔭 I have always been a pragmatist who value practical results or research ideas, and have won several 
 <a href="https://www.kaggle.com/janderchu" style="text-decoration: none;">
-  <img src="./imgs/kaggle-logo.svg" width="40"/>
+  <img src="./imgs/kaggle-logo.svg" width="30"/>
 </a>
- competitions 🏅 1 🥈 1
+ competitions. I'm currently a competition expert with 🏅 1 🥈 1
 
 <!--
 **chuhac/chuhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
