@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on LLM training and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
 
-🔭 I have always been a pragmatist who value practical results or research ideas, and have won several 
+🔭 I have always been a pragmatist who value practical results of research ideas, and have won several 
 <a href="https://www.kaggle.com/janderchu" style="text-decoration: none;">
   <img src="./imgs/kaggle-logo.svg" width="30"/>
 </a>
