@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🌱 I’m currently working on LLM training and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
+
 🔭 I have always been a pragmatist who value practical results, and have won several Kaggle LLM competitions 🏅 1 🥈 1
 
 <!--
