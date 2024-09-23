@@ -2,7 +2,11 @@
 
 🌱 I’m currently working on LLM training and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
 
-🔭 I have always been a pragmatist who value practical results, and have won several Kaggle LLM competitions 🏅 1 🥈 1
+🔭 I have always been a pragmatist who value practical results or research ideas, and have won several 
+<a href="https://www.kaggle.com/janderchu" style="text-decoration: none;">
+  <img src="./imgs/kaggle-logo.svg" width="40"/>
+</a>
+ competitions 🏅 1 🥈 1
 
 <!--
 **chuhac/chuhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
