@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently working on LLM training and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
+🌱 I’m currently working on training well performing LLMs and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
 
 <a href="https://www.kaggle.com/janderchu" style="text-decoration: none;">
   <img src="./imgs/kaggle-logo.svg" width="30"/>
