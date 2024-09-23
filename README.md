@@ -4,7 +4,7 @@
 
 <a href="https://www.kaggle.com/janderchu" style="text-decoration: none;">
   <img src="./imgs/kaggle-logo.svg" width="30"/>
-</a> I have won several AI competitions and I'm currently an expert-level competitioner with 🥇$\times1$ 🥈$\times1$ 
+</a> I have won several AI competitions and I'm currently an expert-level competitioner with 🥇 x 1 🥈 x 1
 
 <!--
 **chuhac/chuhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
