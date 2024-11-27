@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on training well performing LLMs and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
 
-[![](https://img.shields.io/badge/Kaggle-5D24F5?style=flat&logo=kaggle)](https://www.kaggle.com/chuhac) I have won several AI competitions and I'm currently an expert-level competitioner with 🥇 x 1 🥈 x 1
+[![](https://img.shields.io/badge/Kaggle-5D24F5?style=flat&logo=kaggle)](https://www.kaggle.com/janderchu) I have won several AI competitions and I'm currently an expert-level competitioner with 🥇 x 1 🥈 x 1
 
 <!--
 **chuhac/chuhac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
