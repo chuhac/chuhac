@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently working on training well performing LLMs and building efficient LLMs, also exploring possibilities on the nature of LLM knowledge
+🌱 I’m currently working on training well-performed LLMs and building efficient LLMs, also exploring the nature of LLM knowledge
 
 [![](https://img.shields.io/badge/Kaggle-5D24F5?style=flat&logo=kaggle)](https://www.kaggle.com/janderchu) I have won several AI competitions and I'm currently an expert-level competitioner with 🥇 x 1 🥈 x 1
 
